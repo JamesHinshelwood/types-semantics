@@ -34,7 +34,7 @@ If you do not own the book, you can replace Chapter 5 with Flemming Nielson and 
 * Jean-Louis Krivine, [Call-by-name lambda-calculus machine](http://www.pps.univ-paris-diderot.fr/~krivine/articles/lazymach.pdf) (Fabian Thorand and Carlos Tomé)
 or alternatively, [From mathematics to Abstract Machine: A formal derivation of an executable Krivine machine](http://eptcs.web.cse.unsw.edu.au/paper.cgi?MSFP2012.10)
 * Nils Anders Danielsson; [Operational semantics using the partiality monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.pdf)
-* Phil Wadler; [Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf), Rogier Wuijts
+* Phil Wadler; [Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
 * Vazou, Rondon and Jhala; [Abstract Reﬁnement Types](http://goto.ucsd.edu/~rjhala/liquid/abstract_refinement_types.pdf)
 * Peter Landin; [The next 700 programming languages](http://www.inf.ed.ac.uk/teaching/courses/epl/Landin66.pdf) (Giovanni Garufi & Sije Harkema)
 * Dave van Horn and Matthew Might; [Abstract abstract machines](http://dl.acm.org/citation.cfm?id=1863553)
