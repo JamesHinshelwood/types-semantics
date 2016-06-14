@@ -33,7 +33,7 @@ If you do not own the book, you can replace Chapter 5 with Flemming Nielson and 
 * John Launchbury; [A natural semantics for Lazy Evaluation](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Launchbury.pdf)
 * Jean-Louis Krivine, [Call-by-name lambda-calculus machine](http://www.pps.univ-paris-diderot.fr/~krivine/articles/lazymach.pdf) (Fabian Thorand and Carlos Tomé)
 or alternatively, [From mathematics to Abstract Machine: A formal derivation of an executable Krivine machine](http://eptcs.web.cse.unsw.edu.au/paper.cgi?MSFP2012.10)
-* Nils Anders Danielsson; [Operational semantics using the partiality monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.pdf)
+* Nils Anders Danielsson; [Operational semantics using the partiality monad](http://www.cse.chalmers.se/~nad/publications/danielsson-semantics-partiality-monad.pdf) (Marinus Oosters)
 * Phil Wadler; [Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
 * Vazou, Rondon and Jhala; [Abstract Reﬁnement Types](http://goto.ucsd.edu/~rjhala/liquid/abstract_refinement_types.pdf) (Ruud van Asseldonk, happy to work together if anybody wants to join me.)
 * Peter Landin; [The next 700 programming languages](http://www.inf.ed.ac.uk/teaching/courses/epl/Landin66.pdf) (Giovanni Garufi & Sije Harkema)
